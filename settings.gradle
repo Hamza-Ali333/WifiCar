@@ -1,0 +1,2 @@
+rootProject.name='Wifi Car'
+include ':app'
